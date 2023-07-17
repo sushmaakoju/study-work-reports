@@ -1,4 +1,4 @@
-# University of Colorado Boulder
+# University of Colorado Boulder Sep 2021 - July 2022
 
 Masters in Data Science:
 
@@ -7,12 +7,12 @@ Masters in Data Science:
 I explored various forms of explainability and interpretability towards complex, black-box-style deep Learning models.
 This is because, a lot of students and people, were in a deep-learning-rush and looking at the types of millions of jobs just so focussed on Deep Learning and over-estimated use of such models. I thought learning and finding "interpretability" and "explainability" in the deep learning models was not this hard. It was neverthless surprising that a majority of industry jobs race towards deep learning models without actually even being worried about interpetability and explainability or even backward verification of results in downstream or upstream tasks for production release in the industry. We spend so much time writing design testing, prototype-testing, unit testing, functional testing, regression testing, usability and many more types of testing that I am not really familiar about. Something must have been really promising to use Deep Learning models, even without having rough, "approximated" clarity or accounting from the output end (results) all the way back to the input data in a complex network. There were both advantages and disadvantages. I am certainly not an expert but I wanted to find out. I explored trying to address the same using logic and various of following directions.
 
-1. First by comparing traditional statistical methods and their simplicity, explainability with that of unexplainable deep learning models.
-2. Second by exploring StrategyQA, EntailmentBank from Allen AI Institute's datasets and research papers, then by studying Abstract Meaning Representation (AMR) and Logical Neural Networks.
+1. First by <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-Interpretability_explainability.pdf">comparing traditional statistical methods and their simplicity, explainability with that of unexplainable deep learning models</a>.
+2. Second by exploring <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-KRR%20Project%20Final%20Presentation.pdf">StrategyQA, EntailmentBank from Allen AI Institute's datasets and research papers, then by studying Abstract Meaning Representation (AMR) and Logical Neural Networks</a> and <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-mln-stats-fall-2021-final.pdf">Markov Logical Networks</a> and <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-Theorem%20Prover.pdf">Automated Theorem prover</a>.
 3. Third, by understanding state-of-the-art Natural Language research towards Logic and Reasoning.
-4. Fourth, by exploring visual explainability of Deep Learning models.
-5. Also explored philosophical and ethical requirements for the industry-driven tasks using Deep Learning models and AI. There are pros and cons.
-6. Need for generalization and abstractions versus domain-specific, task-oriented AI pipelines in Data Science and Data Analysis.
+4. Fourth, by <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-Analyzing_tools_for_Visualizing_Deep_learning_Models_for_Natural_Language_text___info_viz_project_report.pdf">exploring visual explainability of Deep Learning models for Natural Language text</a>.
+5. Also explored philosophical and ethical requirements for the industry-driven tasks using Deep Learning models and AI. There are pros and cons from Ethics in Data Science course, CU Boulder (final course prohject reports not included here).
+6. Need for generalization and abstractions versus domain-specific, task-oriented AI pipelines in Data Science and Data Analysis such as <a href="https://github.com/sushmaakoju/nlp-bio-bert">Biomedical text corpus during NLP course</a> and <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-task4-final-project-assignment.pdf">SemEval Task 4 Patronizing and Condescending Language Detection (PCL) - ranked 1 in first round</a>.
 
 ## Courses and Course Projects: Towards Logic and Reasoning in Language
 

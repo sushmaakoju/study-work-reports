@@ -1,6 +1,6 @@
-# study-work-reports
+# study-work-reports : Sushma Akoju, she/her/hers
 
-Adding works while at each of the following 6 universities:
+Adding works while at each of the following 6 universities, my non-stop journey of never-ending-learning, is ongoing:
 
 1. <a href="https://github.com/sushmaakoju/study-work-reports/tree/main/university-of-arizona">University of Arizona : Ongoing, PhD, since Fall 2022</a>. 
 
