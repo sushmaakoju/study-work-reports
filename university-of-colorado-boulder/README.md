@@ -16,7 +16,7 @@ This is because, a lot of students and people, were in a deep-learning-rush and 
 
 ## Courses and Course Projects: Towards Logic and Reasoning in Language
 
-### Data Mining, Prof. Di Wu, Fall 2021
+### 1. Data Mining, Prof. Di Wu, Fall 2021
 
 Here the challenge was we were working on a project that is vastly unfamiliar to most of the students. So we had to start ground up which was also helpful for self-learning purposes.
 
@@ -26,7 +26,7 @@ Here the challenge was we were working on a project that is vastly unfamiliar to
 
 - Under the mentorship of Prof. Di Wu, Prof. Tom Mitchell (w.r.t Abstract Meaning Representations, Logical Neural Networks), Prof. Martha Palmer (creator of Abstract Meaning Representation (AMR)), Dr. Peter Clark (StrategyQA, EntailmentBank, from Allen AI Institute).
 
-### Statistics, DTSC 5000, Prof. James Bird, Fall 2021
+### 2. Statistics, DTSC 5000, Prof. James Bird, Fall 2021
 
 - <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-mln-stats-fall-2021-final.pdf">Markov Logical Networks for First Order Logic over Natural Language</a>
 
@@ -34,7 +34,7 @@ Here the challenge was we were working on a project that is vastly unfamiliar to
 
 - under supervision of Prof. James Bird.
 
-### Natural Language Processing, Prof. James H. Martin, Fall 2021
+### 3. Natural Language Processing, Prof. James H. Martin, Fall 2021
 
 - <a href="https://github.com/sushmaakoju/nlp-bio-bert"> NLP : BIO tags over biomedical data (learning of language of biomedical data) </a>
 
@@ -44,33 +44,33 @@ Here the challenge was we were working on a project that is vastly unfamiliar to
 
 - under supervision of Prof. James Bird
 
-### Data Science as a Field, Ethics in Data Science and Security in Data Science, Dr. Jane Wall and Prof. Bobby Schnabel
+### 4. Data Science as a Field, Ethics in Data Science and Security in Data Science, Dr. Jane Wall and Prof. Bobby Schnabel
 - 
 
-### Statistics, DTSC 5000, Prof. Brian Zaharatos, Spring 2022
+### 5. Statistics, DTSC 5000, Prof. Brian Zaharatos, Spring 2022
 
 - <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-unit0-Reflections-on-To-Explain-or-to-Predict.pdf">Reflections on “To Explain or to Predict?” by Galit Shmueli</a>
 
 - <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-Interpretability_explainability.pdf"> Attempt: Comparing traditional Statistical Regression analysis with almost black-box-type Neural Network models with proof-of-examples in R programming and theoretical analysis.</a>
 
-### Information Visualization INFO VIZ 5602, Prof. Abram Handler, Spring 2022
+### 6. Information Visualization INFO VIZ 5602, Prof. Abram Handler, Spring 2022
 
 <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-Analyzing_tools_for_Visualizing_Deep_learning_Models_for_Natural_Language_text___info_viz_project_report.pdf">Visualizing Deep learning Models for Natural Language Processing tasks: INFO VIZ 5602 Project Report</a>
 
 <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-INFO%20VIZ%205602%20Weekly%20Journal.pdf">Class notes + required Weekly Journal </a>
 
-### Big Data Architecture, ATLS 5241: Gregory Greenstreet, Brian Newsom, Spring 2022
+### 7. Big Data Architecture, ATLS 5241: Gregory Greenstreet, Brian Newsom, Spring 2022
 
 This project is for demonstrating the concepts from Big Data Arhcitecture class: Google Cloud and industry best practices for deplyoment. This was part of the Big Data Architecture course during my Masters in Data Science at University of Colorado Boulder, Spring 2022. The Big Data Architecture course only focusses on deployment, cloud environments and developing apis along with industry best practices.
 
-#### research goal
+#### My research goal and learning goals 
 It was an exploratory self-study to learn about Theorem Provers and Turing Completeness. - Self-learning goal.
 
 - <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-Theorem%20Prover.pdf">Theorem Prover using Entscheidungsproblem and Microsoft Z3 Solver and Prover </a>
 
 - <a href="https://github.com/sushmaakoju/demo-ATLS5214"> Demo for Big Data Architecture class by implementing Theorem Provers for 3 simple examples</a>
 
-## Independent Study, Prof. Henry Lovejoy : study and design of NER & Text extraction from OCR scanned Handwritten Slave Trade Volumes
+## 8. Independent Study, Prof. Henry Lovejoy : Study and design of NER & Text extraction from OCR scanned Handwritten Slave Trade Volumes
 
 I worked on an Independent Study supervised by Prof. Henry Lovejoy for the Digital Slavery Research Lab, at the University of Colorado, Boulder. It was towards study and design of Named Entity Recognition from OCR scanned Handwritten Slave Trade Volumes and to train a search over OCR scanned documents. The goal was to analyze and emancipate both people and present-impressions of the past: <a href="https://www.colorado.edu/lab/dsrl/collaborators"></a>.
 
@@ -84,6 +84,16 @@ I worked on an Independent Study supervised by Prof. Henry Lovejoy for the Digit
 - <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-digital-slavery-project-indep_study_final_report.pdf"> Second report: study and design of Named Entity Extraction from OCR scanned Handwritten Slave Trade Volumes and to train a search over OCR scanned documents<a/>
 
 - The challenge here was Named Entity Recognition needs to run over the text extracted from 19th century English language text corpus. Performance over BERT under zero-shot settings was poor for 80% of vocabulary. So we used <a href="https://github.com/sushmaakoju/macberth-eval">MacBERTh</a> model.
+
+-------------------------------------------------------------------------------------------
+## 9. GIS 5603: GIS in the Social and Natural Sciences
+
+The course projects and details are at: 
+<a href="https://github.com/sushmaakoju/GIS-5603"> GIS in the Social and Natural Sciences Assignments </a>
+
+- <a href="https://github.com/sushmaakoju/GIS-5603/blob/master/a1_sushma_akoju.pdf"> Analysis of resolutions for a production of spatial layers that describe distribution of ponds in Urban City Planning. </a>
+
+- <a href="https://github.com/sushmaakoju/GIS-5603/blob/master/a2_sushma_akoju.pdf"> Analysis to  map suitable sites for Tourism development in Colorado state, to investigate the local real estate market and other conditions related to accessibility, land cover and land use. </a>
 
 ## Teaching Assistant for MSBC 5180 Machine Learning in Python and MSBC 5190 Artificial Intelligence
 
