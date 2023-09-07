@@ -23,6 +23,8 @@ Credential verification: <a href="https://badges.wes.org/Evidence?i=48995b02-2e9
 
 7. FAQs -> <a href="https://github.com/sushmaakoju/study-work-reports/tree/main/study-on-logic">About journey of learning logic in philosophy.</a>
 
+8. Some insights for safety awareness for women in academia: https://tinyurl.com/sa-sh-awareness 
+
 #### Views (my own):
 
 As per <a href="https://amcs-community.org/">Mathematical Consciousness Science</a>, it seems more reasonable to understand and look for mathematical aspects of consciousness where logic - automated reasoning, satisfiability, tractable logic contribute towards: <a href="https://arxiv.org/abs/2001.09442">Consciousness and Automated Reasoning
