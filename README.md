@@ -32,5 +32,3 @@ As per <a href="https://amcs-community.org/">Mathematical Consciousness Science<
 - what does it really mean to suggest emergent capabilities under consciousness?? 
 - what is the intersection of emergent capabilities, logical reasoning, and consciousness?? 
 - what are the representational, cognitive aspects that define "correct" working of the LLMs as AI systems?
-
-Lastly if you are "inspired" from my works, do not hesitate to reference this resource when you refer this source.
