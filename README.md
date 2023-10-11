@@ -32,3 +32,11 @@ As per <a href="https://amcs-community.org/">Mathematical Consciousness Science<
 - what does it really mean to suggest emergent capabilities under consciousness?? 
 - what is the intersection of emergent capabilities, logical reasoning, and consciousness?? 
 - what are the representational, cognitive aspects that define "correct" working of the LLMs as AI systems?
+
+#### Note
+
+- I received maximum criticism for signing Pause Giant AI too from traditional/backward thinking researchers. I did experience strong misogyny around. I have been sent emails that I am the savior of AI etc. I am not. If anyone is reaching out to you about me and saying negative things about my stand, I am not responsible for the same. The reason for signing this is: <a href="https://github.com/sushmaakoju/study-work-reports/tree/main/university-of-colorado-boulder">A perspective of not wanting to work in the industry and why.</a>
+
+- I am interested in formal verification of AI systems.
+
+My research goal is same as mentioned here: <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-arizona/sushma-akoju-Natural%20Language%20to%20First%20Order%20Logic.pdf">Natural Language to First Order Logic</a>
