@@ -39,6 +39,6 @@ As per <a href="https://amcs-community.org/">Mathematical Consciousness Science<
 
 - I am interested in formal verification of AI systems and first-order logic. Interests: first-order and higher-order logic & reasoning in language, automated reasoning, constructive and substructural logic, automata, mathematical consciousness, morality in AI and moral reasoning in language, normative phenomenology, category theory, coalgebra. 
 
-- Some insights for safety awareness for women in academia about misogyny and other things: <a href="https://tinyurl.com/sa-sh-awareness">Any action that is targeted to cause pain/harm to another human must be condemned. Because women in academia are equally "women".</a>. My pronouns: she/her/her.
+- Some insights for safety awareness for women in academia about misogyny and other things: <a href="https://tinyurl.com/sa-sh-awareness">Any action that is targeted to cause pain/harm to another human must be condemned. Because women in academia are equally "women".</a>. My pronouns: she/her/hers.
 
 My research goal is same as mentioned here: <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-arizona/sushma-akoju-Natural%20Language%20to%20First%20Order%20Logic.pdf">Natural Language to First Order Logic</a>
