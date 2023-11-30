@@ -39,6 +39,6 @@ As per <a href="https://amcs-community.org/">Mathematical Consciousness Science<
 
 - I consider PhD is no different than a Research Programmer job except that one gets to learn something one is interested in.
 
-- Some insights for safety awareness for women in academia about misogyny and other things: <a href="https://tinyurl.com/sa-sh-awareness">Any action that is targeted to cause pain/harm to another human must be condemned. Because women in academia are equally "women".</a>. My pronouns: she/her/hers.
+- Some insights for safety awareness for women in academia about misogyny and other things: <a href="https://tinyurl.com/sa-sh-awareness"> speaks for itself about how safe campuses are for women.</a>. My pronouns: she/her/hers.
 
 My research goal is same as mentioned here: <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-arizona/sushma-akoju-Natural%20Language%20to%20First%20Order%20Logic.pdf">Natural Language to First Order Logic</a>
