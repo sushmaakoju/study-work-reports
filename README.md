@@ -35,11 +35,9 @@ As per <a href="https://amcs-community.org/">Mathematical Consciousness Science<
 
 #### Note
 
-- I received maximum criticism for signing Pause Giant AI from traditional/backward-thinking researchers. I did experience strong misogyny around. I have been sent emails that I am the savior of AI etc. I am not. If anyone is reaching out to you about me and saying negative things about my stand, I am not responsible for the same. Also if you hear any negative "career" damaging remarks from anyone or anyone propagating that I have past trauma or even subtle gaslighting remarks about me or use of my photos/videos (taken without my consent) or any of my modified photos/videos from Stable Diffusion and other AI tools - just like criminal psychology suggests these are red flags, I am not responsible. The reason for signing Pause AI is: <a href="https://github.com/sushmaakoju/study-work-reports/tree/main/university-of-colorado-boulder">A perspective of not wanting to work in the industry and why.</a>.
+- I am interested in formal verification of AI systems and first-order logic. Interests: first-order and higher-order logic & reasoning in language, automated reasoning, constructive and substructural logic, automata, mathematical consciousness, morality in AI and moral reasoning in language, normative phenomenology, category theory, coalgebra.
 
-- No <a href="https://en.wiktionary.org/wiki/character_assassination">character assassination for harassment </a>! <a href="https://www.dmlp.org/legal-guide/arizona-defamation-law">Law</a> and <a href="https://www.law.cornell.edu/wex/defamation#:~:text=To%20prove%20prima%20facie%20defamation,entity%20who%20is%20the%20subject">defamation includes fault amounting to at least negligence under extenuating situation.</a>
-
-- I am interested in formal verification of AI systems and first-order logic. Interests: first-order and higher-order logic & reasoning in language, automated reasoning, constructive and substructural logic, automata, mathematical consciousness, morality in AI and moral reasoning in language, normative phenomenology, category theory, coalgebra. 
+- I consider PhD is no different than a Research Programmer job except that one gets to learn something one is interested in.
 
 - Some insights for safety awareness for women in academia about misogyny and other things: <a href="https://tinyurl.com/sa-sh-awareness">Any action that is targeted to cause pain/harm to another human must be condemned. Because women in academia are equally "women".</a>. My pronouns: she/her/hers.
 
