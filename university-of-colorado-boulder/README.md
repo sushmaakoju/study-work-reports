@@ -115,6 +115,9 @@ term memory networks. <a href="https://drive.google.com/drive/folders/1o9eVgXfnx
 
 <a href="https://www.colorado.edu/hr/content/contact-hr.">For Employment verification</a>
 
+#### Student Proctor, Student Testing Center, University of Colorado Boulder, Mar - Jul 2022
+Proctored exams for Student Testing Center. Helped to create process guidelines and reminders during finals weeks.
+
 ## Student Assistant, July 2022 - August 2022, Dr. Jane Wall and Kaitlyn Rye
 
 Worked on reviewing and editing changes to quizzes and course content for Coursera Specialization for
