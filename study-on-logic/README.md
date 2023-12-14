@@ -1,6 +1,6 @@
 ## Studying about Logic and Philosophy : Sushma Akoju, she/her/hers
 
-Research interests: first order and higher order logic & reasoning in language, theory of natural logic, morality in AI and moral reasoning in language, normative phenomenology, category theory, coalgebra, legal policies, criminal psychology and many more topics. It seems nice to have various interests in topics and subjects as it helps to keep the perpective. Learning is the only constant.
+Research interests: first order and higher order logic & reasoning in language, theory of natural logic, morality in AI and moral reasoning in language, normative phenomenology, category theory, coalgebra, legal policies, criminal psychology and many more topics. It seems nice to have various interests in topics and subjects as it helps in maintaining the perspective.
 
 ### Sources of study and "Why study logic?"
 
@@ -14,7 +14,7 @@ Research interests: first order and higher order logic & reasoning in language, 
 - Researchers I worked with, such as Prof. Tom Mitchell, Abulhair Saparov, Prof. Justine Cassell, Prof. James H. Martin, 
   Prof. Brian Zaharatos, Prof. Mihai Surdeanu - also shared interesting subjects, materials and topics to learn and opportunities to discuss.
 
-### Some of the good quotes from Nietzsche, Erich Fromm, Suzanne Collins, Marie Curie
+### Some of the good quotes from Nietzsche, Erich Fromm, Suzanne Collins, Marie Curie and Bruce Lee
 
 ```
 Without music, life would be a mistake. ― Friedrich Nietzsche, Twilight of the Idols
@@ -23,6 +23,11 @@ Without music, life would be a mistake. ― Friedrich Nietzsche, Twilight of the
 ```
 There are no facts, only interpretations. ― Friedrich Nietzsche
 ``` 
+
+```
+Knowledge is power, character gives respect. - Bruce lee.
+Defeat is a state of mind - no one is ever defeated until defeat has been accepted as a reality. - Bruce Lee.
+```
 
 ```
 The task of the moral philosopher-thinker is to support and strengthen the voice of human conscience, to recognize 
@@ -57,16 +62,22 @@ this cosmic question out into the void. So goodnight, dear void.
 ``` 
 
 ```
-Is what you think what you see and hear? or is what you see and hear what you think? and why?
+Is what you think what you see and hear? or is what you see and hear what you think? 
+Or what you hear and think is what you see? and why?
 - philosophically anonymous.
 ```
 
+
 ##### Some good sources for studying the aforementioned topics:
 
-- <a href="https://plato.stanford.edu/index.html"> Stanford Encyclopedia of Philosophy </a>
+- <a href="https://plato.stanford.edu/index.html">Stanford Encyclopedia of Philosophy </a>
 
 - This one recommended by Prof. Tom Mitchell and is an inspiring one <a href="https://www.philosophizethis.org/">philosophize this</a>. The host of this podcast is an inspiration <a href="https://www.linkedin.com/in/stephen-west-068bb493/">Stephen West</a>.
 
 - Philosophies from around world: <a href="https://open.spotify.com/show/4GG3QdNPc5MKH7L9fO25sS"> this </a>, <a href="https://plato.stanford.edu/entries/laozi/"> Laozi </a>, <a href="https://plato.stanford.edu/entries/normativity-metaethics/">normativity</a>, <a href="https://plato.stanford.edu/entries/logic-normative/"> normative status of logic</a>
 
 - <a href="https://open.spotify.com/episode/0unsgJf4SNeSbn6g6vNf4a?si=635d8cd22a214109">this </a>, a contemporary social media driven, contemporary philosophy. because Instagram influencers and most twitter celebrities, get to see so many tweets that are uncontrollable and face <a href="https://en.wiktionary.org/wiki/toxic">toxic</a> comments etc.
+
+- <a href="https://en.wikipedia.org/wiki/Chinese_Gung_Fu:_The_Philosophical_Art_of_Self-Defense">The Philosophical Art of Self Defense (Bruce Lee's first book) – 1963</a>
+- <a href="https://en.wikipedia.org/wiki/Bruce_Lee%27s_Fighting_Method">Bruce Lee's Fighting Method</a> 
+- <a href="https://en.wikipedia.org/wiki/Tao_of_Jeet_Kune_Do">Tao of Jeet Kune Do</a>

@@ -1,13 +1,15 @@
 # study-work-reports: Sushma Akoju, she/her/hers
 
-This repository was created since lot of people asked me "how do we know you mean what you say?". No one does. We don't. But I have a mind of my own.
+This repository was added since I felt compelled to show work experiences and course projects worked on since many people ask me about proof of works, study and research. I do not prefer to display or promote skills. I generally like learning. These works demonstrate my journey, my contributions, learning summaries. If any of works included other member's contributions, I have explicitly mentioned the same. This record also refuses any false claims of ownership of any of these works.
+
+**For employment based records, respective Human Resource contacts were provided.**
 
 ## Research Interests
-first order and higher order logic & reasoning in language, morality in AI and moral reasoning in language, normative phenomenology, category theory, and coalgebra.
+Formal verification of AI systems. Interests: first-order and higher-order logic & reasoning in language, automated reasoning, constructive and substructural logic, automata, mathematical consciousness, morality in AI and moral reasoning in language, normative phenomenology, category theory, coalgebra.
 
 ## Details of courses, work projects
 
-Adding works while at each of the following 6 universities, my non-stop journey of never-ending-learning is ongoing:
+Adding works while at each one of the following 6 universities, my non-stop journey of never-ending-learning is ongoing:
 
 1. <a href="https://github.com/sushmaakoju/study-work-reports/tree/main/university-of-arizona">University of Arizona: Ongoing, PhD, since Fall 2022</a>. 
 
@@ -43,4 +45,20 @@ As per <a href="https://amcs-community.org/">Mathematical Consciousness Science<
 
 - Some insights for safety awareness for women in academia about misogyny and other things: <a href="https://tinyurl.com/sa-sh-awareness"> speaks for itself about how safe campuses are for women.</a>. My pronouns: she/her/hers.
 
-**My research goal is same as mentioned here and is slightly changed since the advent of ChaGPT:** <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-arizona/sushma-akoju-Natural%20Language%20to%20First%20Order%20Logic.pdf">Natural Language to First Order Logic</a>
+**My research goal as mentioned here and is changed since before the advent of ChaGPT and after which is not yet updated since July 2023:** <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-arizona/sushma-akoju-Natural%20Language%20to%20First%20Order%20Logic.pdf"> Natural Language to First Order Logic before ChatGPT</a>. 
+
+Since there is more attention as well as sudden shift in research focus recently towards logical reasoning capabilities in LLMs, I would prefer my new+updated research goals to remain confidential and private for sometime. Hence updated goals were deferred. (Coming up soon!!).
+
+I have a statement of purpose that was shared with limited number of people which is protected under copyrights.
+
+**(Updated Dec 20th 2023)**: However the Natural Language (NL) to First Order Logic (FOL) Translation problem seems to be most likely but partially solved (by LLMs with emergent capabilities). This is added after reading the following works that show evidences of FOL in GPT3 from ICLR 2023 and NL to FOL translations in GPT 3.5, GPT 4 and StarCoder+ EMNLP 2023 respectively:
+
+```
+- Saparov, A., & He, H. (2022). Language models are greedy reasoners: 
+A systematic formal analysis of chain-of-thought. arXiv preprint arXiv:2210.01240.
+
+- Olausson, T. X., Gu, A., Lipkin, B., Zhang, C. E., Solar-Lezama, 
+A., Tenenbaum, J. B., & Levy, R. (2023). LINC: A Neurosymbolic Approach for Logical Reasoning 
+by Combining Language Models with First-Order Logic Provers. arXiv preprint arXiv:2310.15164.
+
+```

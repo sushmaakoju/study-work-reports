@@ -58,5 +58,7 @@ I have been mentored by the TA, Abulhair Saparov, 10812 course on following topi
    - sequent calculus, natural deduction and 
    - first-order logic with Horn clauses.
 
+Prior to this I had interest in First Order Logic and <a href="https://github.com/sushmaakoju/study-work-reports/tree/main/study-on-logic"> provides more information of the background.</a> I have respect for the teachers and chances to learn. But I did not get a chance to work with the teachers after 2020 on First Order Logic.
+
 #### Employment verification for CMU
 <a href="https://www.cmu.edu/hr/service-center/help/index.html#verifications">HR contact details.</a>
