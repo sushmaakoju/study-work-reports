@@ -1,5 +1,7 @@
 # study-work-reports: Sushma Akoju, she/her/hers
 
+This repository was created since lot of people asked me "how do we know you mean what you say?". No one does. We don't. But I have a mind of my own.
+
 ## Research Interests
 first order and higher order logic & reasoning in language, morality in AI and moral reasoning in language, normative phenomenology, category theory, and coalgebra.
 
