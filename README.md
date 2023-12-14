@@ -41,4 +41,4 @@ As per <a href="https://amcs-community.org/">Mathematical Consciousness Science<
 
 - Some insights for safety awareness for women in academia about misogyny and other things: <a href="https://tinyurl.com/sa-sh-awareness"> speaks for itself about how safe campuses are for women.</a>. My pronouns: she/her/hers.
 
-My research goal is same as mentioned here: <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-arizona/sushma-akoju-Natural%20Language%20to%20First%20Order%20Logic.pdf">Natural Language to First Order Logic</a>
+**My research goal is same as mentioned here and is slightly changed since the advent of ChaGPT:** <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-arizona/sushma-akoju-Natural%20Language%20to%20First%20Order%20Logic.pdf">Natural Language to First Order Logic</a>
