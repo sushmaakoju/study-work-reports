@@ -26,8 +26,10 @@ There are no facts, only interpretations. ― Friedrich Nietzsche
 
 ```
 Knowledge is power, character gives respect. - Bruce lee.
+Do not pray for an easy life, pray for the strength to endure a difficult one. - Bruce Lee.
 Defeat is a state of mind - no one is ever defeated until defeat has been accepted as a reality. - Bruce Lee.
 ```
+Reference: <a href="https://brucelee.com/podcast-blog/2017/10/25/69-the-easy-life">Bruce Lee on easy life, the ease that comes when you practice self-actualization and achieve peace of mind.</a>.
 
 ```
 The task of the moral philosopher-thinker is to support and strengthen the voice of human conscience, to recognize 
@@ -60,6 +62,7 @@ I read in a book, when shouldn't it be the other way around? I don't really want
 this cosmic question out into the void. So goodnight, dear void. 
 - Kathleen Kelly, from You've got mail by Nora Ephron & Delia Ephron
 ``` 
+This quote may expand to not just what one may have read in a book, but also what one would have seen in a video or a post on instagram/tiktok/twitter/Facebook etc, heard in a podcast or read in some online website/blog as well in the context of contemporary life in 2024.  
 
 ```
 Is what you think what you see and hear? or is what you see and hear what you think? 
@@ -76,7 +79,7 @@ Or what you hear and think is what you see? and why?
 
 - Philosophies from around world: <a href="https://open.spotify.com/show/4GG3QdNPc5MKH7L9fO25sS"> this </a>, <a href="https://plato.stanford.edu/entries/laozi/"> Laozi </a>, <a href="https://plato.stanford.edu/entries/normativity-metaethics/">normativity</a>, <a href="https://plato.stanford.edu/entries/logic-normative/"> normative status of logic</a>
 
-- <a href="https://open.spotify.com/episode/0unsgJf4SNeSbn6g6vNf4a?si=635d8cd22a214109">this </a>, a contemporary social media driven, contemporary philosophy. because Instagram influencers and most twitter celebrities, get to see so many tweets that are uncontrollable and face <a href="https://en.wiktionary.org/wiki/toxic">toxic</a> comments etc.
+- <a href="https://open.spotify.com/episode/0unsgJf4SNeSbn6g6vNf4a?si=635d8cd22a214109">this </a>, a contemporary social media driven philosophy. because Instagram influencers and most twitter celebrities, get to see so many tweets that are uncontrollable and face <a href="https://en.wiktionary.org/wiki/toxic">toxic</a> comments etc.
 
 - <a href="https://en.wikipedia.org/wiki/Chinese_Gung_Fu:_The_Philosophical_Art_of_Self-Defense">The Philosophical Art of Self Defense (Bruce Lee's first book) – 1963</a>
 - <a href="https://en.wikipedia.org/wiki/Bruce_Lee%27s_Fighting_Method">Bruce Lee's Fighting Method</a> 

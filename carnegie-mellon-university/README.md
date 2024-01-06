@@ -11,33 +11,32 @@ I worked on Conversational AI, several Machine Learning and AI concepts during Y
 - Unity 3D integration in Android Java
 - Integarting various Middleware components designed by Researchers
 
-Socially-Aware Animated Intelligent Personal Assistant Agent:
-<a href="http://articulab.hcii.cs.cmu.edu/projects/sara/"> SARA (Socially-Aware Robot Assistant) </a>
+#### Socially-Aware Animated Intelligent Personal Assistant Agent: 
+About SARA: <a href="http://articulab.hcii.cs.cmu.edu/projects/sara/"> SARA (Socially-Aware Robot Assistant) </a>
 
-<a href="https://aclanthology.org/W16-3628.pdf"> Socially-Aware Animated Intelligent Personal Assistant Agent</a> 
+- <a href="https://aclanthology.org/W16-3628.pdf"> Socially-Aware Animated Intelligent Personal Assistant Agent</a> 
 
-<a href="https://github.com/inmind-project/inmind-development">InMind development and Middleware for Android InMind App</a>
+- <a href="https://github.com/inmind-project/inmind-development">InMind development and Middleware for Android InMind App</a>
 
 ### Computational Biology Department Mar 2019 - Jan 2020
 
 Worked part of HubMAP project for prototype demonstration. Worked on Imaging Mass Spectrometry analysis combined with Segmentation over Microscopy Imaging data for (MALDI), metabolites and images datasets.
 
-<a href="https://github.com/sushmaakoju/study-work-reports/blob/main/carnegie-mellon-university/sushma-akoju-Imaging_Mass_Spectrometry_HuBMAP_KT_Document.pdf">Imaging Mass Spectrometry - Training</a>
+- <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/carnegie-mellon-university/sushma-akoju-Imaging_Mass_Spectrometry_HuBMAP_KT_Document.pdf">Imaging Mass Spectrometry - Training</a>
 
 ### Robotics Nov 2020 - Jul 2021
 
 I worked on Computer Graphics project over vehicle satellite images dataset.
 
-<a href="https://github.com/sushmaakoju/mturk-task-helper">Conducted Mechanical Turk Annotations tasks for Object Classification and Object Identification</a>
+- <a href="https://github.com/sushmaakoju/mturk-task-helper">Conducted Mechanical Turk Annotations tasks for Object Classification and Object Identification</a>
 
-<a href="https://github.com/sushmaakoju/yolo"> Object Detection using MTurk annotated dataset and other manually labelled Ground Truth Images dataset using YOLO.</a>
+- <a href="https://github.com/sushmaakoju/yolo"> Object Detection using MTurk annotated dataset and other manually labelled Ground Truth Images dataset using YOLO.</a>
 
 ### Machine Learning Department Feb 2020 - Oct 2020
 
 I worked on developing a regression analysis over lab experiments under supervision of Prof. Barnabas Poczos and Prof. Newell R. Washburn. This project uses custom algorithms broadly under the topic of Hierarchical Machine Learning using uncertainity predictions. (is under confidentiality agreement). Developed a website that has electron user interface which can be hosted as a website as well as an desktop application and can take an input excel sheet with data and custom domain specific "theory" at various layers in the "hierarchy".
 
-I took up an interesting challenge to write a parser for polynomial equations, which was very interesting to me: 
-<a href="https://github.com/sushmaakoju/polynomial-equation-parser"> Polynomial Equations Parser</a>
+- I took up an interesting challenge to write a parser for polynomial equations, which was very interesting to me: <a href="https://github.com/sushmaakoju/polynomial-equation-parser"> Polynomial Equations Parser</a>
 
 ## Courses Enrolled while working as an Research programmer at CMU
 
@@ -58,7 +57,7 @@ I have been mentored by the TA, Abulhair Saparov, 10812 course on following topi
    - sequent calculus, natural deduction and 
    - first-order logic with Horn clauses.
 
-Prior to this I had interest in First Order Logic and <a href="https://github.com/sushmaakoju/study-work-reports/tree/main/study-on-logic"> provides more information of the background.</a> I have respect for the teachers and chances to learn. But I did not get a chance to work with the teachers after 2020 on First Order Logic.
+Prior to this learning experience, I had interest in First Order Logic as a hobby and <a href="https://github.com/sushmaakoju/study-work-reports/tree/main/study-on-logic"> provides more information of the background.</a> I have respect for the teachers and chances to learn. But I did not get a chance to work with the teachers after 2020 on First Order Logic.
 
 #### Employment verification for CMU
 <a href="https://www.cmu.edu/hr/service-center/help/index.html#verifications">HR contact details.</a>

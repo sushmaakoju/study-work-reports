@@ -36,13 +36,13 @@ Here the challenge was we were working on a project that is vastly unfamiliar to
 
 ### 3. Natural Language Processing, Prof. James H. Martin, Fall 2021
 
-- <a href="https://github.com/sushmaakoju/nlp-bio-bert"> NLP : BIO tags over biomedical data (learning of the language of biomedical data) </a>
+- <a href="https://github.com/sushmaakoju/nlp-bio-bert"> BIO tags over biomedical data (learning of the language of biomedical data) </a>
 
 - <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-task4-final-project-assignment.pdf">SemEval Task 4 Patronizing and Condescending Language Detection (PCL) - ranked 1 in first round</a>
 
-- <a ref="https://github.com/sushmaakoju/nlp-final-2021-pcl-semeval2022-task"> Reports + Source code: SemEval Task 4 Patronizing and Condescending Language Detection (PCL) - ranked 1 in first round </a>
+- <a href="https://github.com/sushmaakoju/nlp-final-2021-pcl-semeval2022-task"> Reports & Source code: SemEval Task 4 Patronizing and Condescending Language Detection (PCL) - ranked 1 in first round </a>
 
-- under supervision of Prof. James Bird
+- under supervision of Prof. James H Martin
 
 ### 4. Data Science as a Field, Ethics in Data Science and Security in Data Science, Dr. Jane Wall and Prof. Bobby Schnabel
 - 
@@ -53,11 +53,13 @@ Here the challenge was we were working on a project that is vastly unfamiliar to
 
 - <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-Interpretability_explainability.pdf"> Attempt: Comparing traditional Statistical Regression analysis with almost black-box-type Neural Network models with proof-of-examples in R programming and theoretical analysis.</a>
 
+- <a href="https://github.com/sushmaakoju/stat-5010-final-project">Comparing traditional Statistical Regression analysis with nearly black-box-type Neural Network models over XOR data (Universal Approximation Theorem)</a>
+
 ### 6. Information Visualization INFO VIZ 5602, Prof. Abram Handler, Spring 2022
 
-<a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-Analyzing_tools_for_Visualizing_Deep_learning_Models_for_Natural_Language_text___info_viz_project_report.pdf">Visualizing Deep Learning Models for Natural Language Processing tasks: INFO VIZ 5602 Project Report</a>
+- <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-Analyzing_tools_for_Visualizing_Deep_learning_Models_for_Natural_Language_text___info_viz_project_report.pdf">Visualizing Deep Learning Models for Natural Language Processing tasks: INFO VIZ 5602 Project Report</a>
 
-<a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-INFO%20VIZ%205602%20Weekly%20Journal.pdf">Class notes + required Weekly Journal </a>
+- <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-INFO%20VIZ%205602%20Weekly%20Journal.pdf">Class notes + required Weekly Journal </a>
 
 ### 7. Big Data Architecture, ATLS 5241: Gregory Greenstreet, Brian Newsom, Spring 2022
 
